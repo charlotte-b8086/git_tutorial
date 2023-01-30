@@ -1,0 +1,11 @@
+donottrack.rtf
+.DS_Store
+
+# data folders
+/figures
+/data
+
+# output files
+*.pdf
+*.log
+*.aux
