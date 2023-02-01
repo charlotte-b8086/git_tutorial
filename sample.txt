@@ -5,5 +5,3 @@ I don't know what happened to my first sample.txt file.
 Sus.
 
 Trying to edit file.
-
-Here is another line.
