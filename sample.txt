@@ -10,3 +10,6 @@ More text added below!
 Here is a line added on github! Not usually a good idea.
 
 Adding a new line to commit.
+
+I am continuing to edit sample.txt on branch mybranch.
+Tehe.
