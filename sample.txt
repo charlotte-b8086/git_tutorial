@@ -8,3 +8,5 @@ Trying to edit file.
 
 More text added below!
 Here is a line added on github! Not usually a good idea.
+
+Adding a new line to commit.
