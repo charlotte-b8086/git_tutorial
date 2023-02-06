@@ -8,3 +8,5 @@ Trying to edit file.
 
 More text added below!
 Here is a line added on github! Not usually a good idea.
+
+I am editing the same file I edited before now on Master.
