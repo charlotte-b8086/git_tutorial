@@ -13,3 +13,6 @@ Adding a new line to commit.
 
 I am continuing to edit sample.txt.
 Tehe.
+
+Here is a new paragraph on the computer.
+It is something a bit different.
