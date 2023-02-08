@@ -10,10 +10,7 @@ Adding a new line to commit.
 I am continuing to edit sample.txt.
 Tehe.
 
-<<<<<<< HEAD
 Here is a new paragraph on the computer.
 It is something a bit different.
-=======
 Here is a new paragraph, added from Github.
 Some more words go here.
->>>>>>> af12efb0ceb2667f9d25a1a74f4391d2303a3e0f
